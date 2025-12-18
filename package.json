@@ -1,0 +1,12 @@
+{
+  "name": "admin-landing-selector",
+  "version": "1.0.0",
+  "description": "Landing para seleccionar y acceder a paneles de administración",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
+
